@@ -1,0 +1,3 @@
+/Users/wsl/Projects/tinyweb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wsl/Projects/tinyweb/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wsl/Projects/tinyweb/cmake-build-debug/CMakeFiles/tinyweb.dir
