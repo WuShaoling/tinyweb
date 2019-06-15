@@ -78,6 +78,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/wsl/Projects/tinyweb/csapp.c">
+			<Option target="tinyweb"/>
+		</Unit>
+		<Unit filename="/Users/wsl/Projects/tinyweb/include/csapp.h">
+			<Option target="tinyweb"/>
+		</Unit>
 		<Unit filename="/Users/wsl/Projects/tinyweb/main.c">
 			<Option target="tinyweb"/>
 		</Unit>

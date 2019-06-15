@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/Users/wsl/Projects/tinyweb/csapp.c" "/Users/wsl/Projects/tinyweb/cmake-build-debug/CMakeFiles/tinyweb.dir/csapp.c.o"
   "/Users/wsl/Projects/tinyweb/main.c" "/Users/wsl/Projects/tinyweb/cmake-build-debug/CMakeFiles/tinyweb.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tinyweb.dir/main.c.o"
+  "CMakeFiles/tinyweb.dir/csapp.c.o"
   "tinyweb.pdb"
   "tinyweb"
 )
